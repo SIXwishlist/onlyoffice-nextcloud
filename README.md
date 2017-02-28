@@ -1,3 +1,7 @@
+# ![](screenshots/icon.png) Nextcloud ONLYOFFICE integration app
+
+This app is based on the Owncload app for ONLYOFFICE.
+
 # ![](screenshots/icon.png) OwnCloud ONLYOFFICE integration app
 
 This app enables users to edit office documents from [ownCloud](https://owncloud.com) using ONLYOFFICE Document Server. Currently the following document formats can be edited with this app: DOCX, XLSX, PPTX, TXT. The above mentioned formats are also available for viewing together with PDF and CSV. The edited files of the corresponding type can be converted into the Office Open XML formats: ODT, ODS, ODP, DOC, XLS, PPT, PPS, EPUB, RTF, HTML, HTM.
