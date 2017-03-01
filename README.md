@@ -1,6 +1,6 @@
 # ![](screenshots/icon.png) Nextcloud ONLYOFFICE integration app
 
-This app is based on the Owncload app for ONLYOFFICE.
+This app is based on the Owncloud app for ONLYOFFICE.
 
 Tested with [Nextcloud](https://github.com/nextcloud/server) 11.0.2.
 
