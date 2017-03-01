@@ -39,7 +39,7 @@
     } ?>
     
 
-    <script type="text/javascript">
+    <script nonce="<?php p(\OC::$server->getContentSecurityPolicyNonceManager()->getNonce()) ?>" type="text/javascript">
         OCA.Onlyoffice.OpenEditor ({
             error: "<?php empty($_["error"]) ? "" : p($_["error"]) ?>",
 
